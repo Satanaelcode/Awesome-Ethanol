@@ -1,4 +1,5 @@
-# Ethanol [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ethanol 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Projects who Utilize The Ethanol Backdoor or its SDK.
 
