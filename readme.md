@@ -1,30 +1,32 @@
 # Awesome Ethanol 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Projects who Utilize The Ethanol Backdoor or its SDK.
+> A curated list of projects that utilize the Ethanol Backdoor or its SDK.
 
 
-## Contents
+## Index
 
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Backdoor Controller](#backdoor-controller)
 
 
-## Another Section
+## Backdoor Controller
 
-### Subsection
+Those tools utilize the Dev API that runs on the remote client protocol.
+
+- [Remote API](#remote-api)
+
+- [Ethanol Mods](#ethanol-mods)
+
+### Remote API 
 
 - [List item](http://example.com)
-- [List item](http://example.com)
 
+
+### Ethanol Mods
+
+- [Nekos Ethanol Mod](https://github.com/NekosAreKawaii/EthanolMod)
+- [Ethanol Meteor Addon](https://github.com/Dark-Developments/Ethanol-Meteor-Addon)
+  
 
 ## Contribute
 
