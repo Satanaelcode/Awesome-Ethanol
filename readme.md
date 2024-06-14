@@ -13,13 +13,13 @@
 
 Those tools utilize the Dev API that runs on the remote client protocol.
 
-- [Remote API](#remote-api)
+- [Remote API](#remote-clients)
 
 - [Ethanol Mods](#ethanol-mods)
 
-### Remote API 
+### Remote Clients
 
-- [List item](http://example.com)
+- [Molotov Connector](https://github.com/Veslydev/EthanolRemoteDiscord)
 
 
 ### Ethanol Mods
