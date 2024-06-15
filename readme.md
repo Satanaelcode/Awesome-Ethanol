@@ -6,7 +6,7 @@
 
 ## Index
 
-- [Backdoor Controller](#backdoor-controller)
+- [Backdoor Controller](https://github.com/Satanaelcode/Awesome-Ethanol/edit/main/readme.md#backdoor-controller)
 
 
 ## Backdoor Controller
