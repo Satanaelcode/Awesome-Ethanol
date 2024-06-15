@@ -13,7 +13,6 @@
 Those tools utilize the Dev API that runs on the remote client protocol.
 
 - [Remote API](#remote-clients)
-
 - [Ethanol Mods](#ethanol-mods)
 
 ### Remote Clients
