@@ -33,7 +33,7 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 
 ### Test Server
 
-- Official Test Server => test.ethanol.rocks
+- [Official Test Server => test.ethanol.rocks](https://mcstatus.io/status/java/test.ethanol.rocks)
 
 ## Contribute
 
