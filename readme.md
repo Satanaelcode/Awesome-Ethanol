@@ -7,7 +7,7 @@
 ## Index
 
 - [Backdoor Controller](#backdoor-controller)
-- [Additional Things](https://github.com/Satanaelcode/Awesome-Ethanol/edit/main/readme.md#additional-things)
+- [Additional Things](#additional-things)
 
 ## Backdoor Controller
 
@@ -29,7 +29,7 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 
 ## Additional Things
 
-- [Test Server](https://github.com/Satanaelcode/Awesome-Ethanol/edit/main/readme.md#test-server)
+- [Test Server](#test-server)
 
 ### Test Server
 
