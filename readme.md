@@ -29,6 +29,8 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 
 ## Additional Things
 
+Stuff that I can't really categorize into a topic itself.
+
 - [Test Server](#test-server)
 
 ### Test Server
