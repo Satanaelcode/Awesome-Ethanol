@@ -3,6 +3,7 @@
 
 > A curated list of projects that utilize the Ethanol Backdoor or its SDK.
 
+Read more about Ethanol [here](https://blog.onelitefeather.net/de/everything-you-need-to-know-about-ethanol)
 
 ## Index
 
