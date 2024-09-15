@@ -9,7 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - It needs to be related with the Ethanol Backdoor or its API
-- It needs to be unique and cant be a fork or copy of an already existing project
+- It needs to be unique and cant be a fork or copy of an already existing project accept it changes core features of the original project
 - And it can only be under given Categories (Repository related to Ethanol, Custom Ethanol Mod or Remote Client based)**
 
 Thank you for your suggestions!
