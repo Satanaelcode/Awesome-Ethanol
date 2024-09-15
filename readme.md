@@ -14,7 +14,7 @@ Read more about Ethanol [here](https://blog.onelitefeather.net/de/everything-you
 
 Those tools utilize the Dev API that runs on the remote client protocol.
 
-- [Remote API](#remote-clients)
+- [Remote Clients](#remote-clients)
 - [Ethanol Mods](#ethanol-mods)
 
 ### Remote Clients
