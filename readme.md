@@ -20,6 +20,7 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 ### Remote Clients
 
 - [Molotov Connector](https://github.com/Veslydev/EthanolRemoteDiscord)
+- [Pythanol Client](https://github.com/Satanaelcode/Pythanol-Client)
 
 
 ### Ethanol Mods
