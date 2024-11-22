@@ -19,15 +19,15 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 
 ### Remote Clients
 
-- [Molotov Connector](https://github.com/Veslydev/EthanolRemoteDiscord)
-- [Pythanol Client](https://github.com/Satanaelcode/Pythanol-Client)
-- [Kawaii Mod](https://github.com/Dark-Developments/Kawaii)
+- [Molotov Connector](https://github.com/Veslydev/EthanolRemoteDiscord) (V1 & V2)
+- [Pythanol Client](https://github.com/Satanaelcode/Pythanol-Client) (V1)
+- [Kawaii Mod](https://github.com/Dark-Developments/Kawaii) (V1)
 
 
 ### Ethanol Mods
 
 - [Official Ethanol Mod](https://github.com/EthanolMC/EthanolMod)
-- [Ethanol Meteor Addon](https://github.com/Dark-Developments/Ethanol-Meteor-Addon)
+- ~~[Ethanol Meteor Addon](https://github.com/Dark-Developments/Ethanol-Meteor-Addon)~~
 
 ## Additional Things
 
