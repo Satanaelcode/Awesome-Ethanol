@@ -21,6 +21,7 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 
 - [Molotov Connector](https://github.com/Veslydev/EthanolRemoteDiscord)
 - [Pythanol Client](https://github.com/Satanaelcode/Pythanol-Client)
+- [Kawaii Mod](https://github.com/Dark-Developments/Kawaii)
 
 
 ### Ethanol Mods
@@ -32,10 +33,7 @@ Those tools utilize the Dev API that runs on the remote client protocol.
 
 Stuff that I can't really categorize into a topic itself.
 
-- [Test Server](#test-server)
-
-### Test Server
-
+- [NBS Archive](https://github.com/Satanaelcode/NBS-Archive)
 - [Official Test Server => test.ethanol.rocks](https://mcstatus.io/status/java/test.ethanol.rocks)
 
 ## Contribute
